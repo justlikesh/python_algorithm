@@ -1,4 +1,4 @@
-### 3. 문제 설명
+# 3. 문제 설명
 
 # 수포자는 수학을 포기한 사람의 준말입니다. 수포자 삼인방은 모의고사에 수학 문제를 전부 찍으려 합니다. 수포자는 1번 문제부터 마지막 문제까지 다음과 같이 찍습니다.
 
@@ -16,6 +16,7 @@ def solution1(answers):
     result = []
 
     for idx, answer in enumerate(answers):
+        # print(idx,answer)
         if answer == pattern1[idx%len(pattern1)]:
             score[0] += 1
         if answer == pattern2[idx%len(pattern2)]:
