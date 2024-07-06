@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/justlikesh/python_algorithm/tree/master/0008-string-to-integer-atoi) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
