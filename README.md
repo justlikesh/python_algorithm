@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/justlikesh/python_algorithm/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/justlikesh/python_algorithm/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
