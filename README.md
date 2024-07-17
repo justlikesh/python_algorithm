@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/justlikesh/python_algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
 ## Dynamic Programming
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/justlikesh/python_algorithm/tree/master/0029-divide-two-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/justlikesh/python_algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
