@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/justlikesh/python_algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/justlikesh/python_algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/justlikesh/python_algorithm/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
@@ -43,9 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/justlikesh/python_algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/justlikesh/python_algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/justlikesh/python_algorithm/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/justlikesh/python_algorithm/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
