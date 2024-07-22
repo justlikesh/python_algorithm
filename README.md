@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/justlikesh/python_algorithm/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/justlikesh/python_algorithm/tree/master/0014-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/justlikesh/python_algorithm/tree/master/0018-4sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/justlikesh/python_algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
