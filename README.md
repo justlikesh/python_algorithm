@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/justlikesh/python_algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/justlikesh/python_algorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/justlikesh/python_algorithm/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
 ## Dynamic Programming
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/justlikesh/python_algorithm/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
