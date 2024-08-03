@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/justlikesh/python_algorithm/tree/master/0029-divide-two-integers) |
+| [0263-ugly-number](https://github.com/justlikesh/python_algorithm/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |
