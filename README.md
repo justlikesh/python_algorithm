@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/justlikesh/python_algorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/justlikesh/python_algorithm/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/justlikesh/python_algorithm/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/justlikesh/python_algorithm/tree/master/0041-first-missing-positive) |
 ## Matrix
 |  |
 | ------- |
