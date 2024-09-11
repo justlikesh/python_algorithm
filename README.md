@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/justlikesh/python_algorithm/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/justlikesh/python_algorithm/tree/master/0050-powx-n) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/justlikesh/python_algorithm/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/justlikesh/python_algorithm/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/justlikesh/python_algorithm/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
