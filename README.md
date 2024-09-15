@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/justlikesh/python_algorithm/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/justlikesh/python_algorithm/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/justlikesh/python_algorithm/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
 ## String
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/justlikesh/python_algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/justlikesh/python_algorithm/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/justlikesh/python_algorithm/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/justlikesh/python_algorithm/tree/master/0044-wildcard-matching) |
 | [0093-restore-ip-addresses](https://github.com/justlikesh/python_algorithm/tree/master/0093-restore-ip-addresses) |
 ## Backtracking
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/justlikesh/python_algorithm/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/justlikesh/python_algorithm/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/justlikesh/python_algorithm/tree/master/0050-powx-n) |
 ## Math
 |  |
