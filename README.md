@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/justlikesh/python_algorithm/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
+| [0216-combination-sum-iii](https://github.com/justlikesh/python_algorithm/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
 | [0093-restore-ip-addresses](https://github.com/justlikesh/python_algorithm/tree/master/0093-restore-ip-addresses) |
+| [0216-combination-sum-iii](https://github.com/justlikesh/python_algorithm/tree/master/0216-combination-sum-iii) |
 ## Linked List
 |  |
 | ------- |
