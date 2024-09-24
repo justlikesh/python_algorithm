@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/justlikesh/python_algorithm/tree/master/0047-permutations-ii) |
 | [0213-house-robber-ii](https://github.com/justlikesh/python_algorithm/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/justlikesh/python_algorithm/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/justlikesh/python_algorithm/tree/master/0221-maximal-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/justlikesh/python_algorithm/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
 | [0213-house-robber-ii](https://github.com/justlikesh/python_algorithm/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/justlikesh/python_algorithm/tree/master/0221-maximal-square) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
+| [0221-maximal-square](https://github.com/justlikesh/python_algorithm/tree/master/0221-maximal-square) |
 ## Depth-First Search
 |  |
 | ------- |
