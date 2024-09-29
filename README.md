@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/justlikesh/python_algorithm/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/justlikesh/python_algorithm/tree/master/0044-wildcard-matching) |
 | [0093-restore-ip-addresses](https://github.com/justlikesh/python_algorithm/tree/master/0093-restore-ip-addresses) |
+| [0166-fraction-to-recurring-decimal](https://github.com/justlikesh/python_algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/justlikesh/python_algorithm/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/justlikesh/python_algorithm/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/justlikesh/python_algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/justlikesh/python_algorithm/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/justlikesh/python_algorithm/tree/master/0263-ugly-number) |
 ## Bit Manipulation
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/justlikesh/python_algorithm/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/justlikesh/python_algorithm/tree/master/0041-first-missing-positive) |
+| [0166-fraction-to-recurring-decimal](https://github.com/justlikesh/python_algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 ## Matrix
 |  |
 | ------- |
