@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/justlikesh/python_algorithm/tree/master/0044-wildcard-matching) |
 | [0093-restore-ip-addresses](https://github.com/justlikesh/python_algorithm/tree/master/0093-restore-ip-addresses) |
 | [0166-fraction-to-recurring-decimal](https://github.com/justlikesh/python_algorithm/tree/master/0166-fraction-to-recurring-decimal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/justlikesh/python_algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/justlikesh/python_algorithm/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/justlikesh/python_algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/justlikesh/python_algorithm/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/justlikesh/python_algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/justlikesh/python_algorithm/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/justlikesh/python_algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
