@@ -130,5 +130,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/justlikesh/python_algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
+## Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
+## Binary Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
