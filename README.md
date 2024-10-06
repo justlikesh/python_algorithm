@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/justlikesh/python_algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/justlikesh/python_algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/justlikesh/python_algorithm/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/justlikesh/python_algorithm/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
 | ------- |
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/justlikesh/python_algorithm/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/justlikesh/python_algorithm/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/justlikesh/python_algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/justlikesh/python_algorithm/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/justlikesh/python_algorithm/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/justlikesh/python_algorithm/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/justlikesh/python_algorithm/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
