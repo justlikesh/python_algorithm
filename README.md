@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/justlikesh/python_algorithm/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/justlikesh/python_algorithm/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/justlikesh/python_algorithm/tree/master/0221-maximal-square) |
+| [0274-h-index](https://github.com/justlikesh/python_algorithm/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/justlikesh/python_algorithm/tree/master/0018-4sum) |
+| [0274-h-index](https://github.com/justlikesh/python_algorithm/tree/master/0274-h-index) |
 ## Trie
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/justlikesh/python_algorithm/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
