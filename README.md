@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/justlikesh/python_algorithm/tree/master/0045-jump-game-ii) |
 | [0213-house-robber-ii](https://github.com/justlikesh/python_algorithm/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/justlikesh/python_algorithm/tree/master/0221-maximal-square) |
+| [0343-integer-break](https://github.com/justlikesh/python_algorithm/tree/master/0343-integer-break) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/justlikesh/python_algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/justlikesh/python_algorithm/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/justlikesh/python_algorithm/tree/master/0263-ugly-number) |
+| [0343-integer-break](https://github.com/justlikesh/python_algorithm/tree/master/0343-integer-break) |
 ## Bit Manipulation
 |  |
 | ------- |
