@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/justlikesh/python_algorithm/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/justlikesh/python_algorithm/tree/master/0221-maximal-square) |
 | [0343-integer-break](https://github.com/justlikesh/python_algorithm/tree/master/0343-integer-break) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/justlikesh/python_algorithm/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/justlikesh/python_algorithm/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/justlikesh/python_algorithm/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/justlikesh/python_algorithm/tree/master/0343-integer-break) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/justlikesh/python_algorithm/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/justlikesh/python_algorithm/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/justlikesh/python_algorithm/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
