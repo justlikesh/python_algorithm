@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/justlikesh/python_algorithm/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/justlikesh/python_algorithm/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/justlikesh/python_algorithm/tree/master/0274-h-index) |
+| [0284-peeking-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0284-peeking-iterator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/justlikesh/python_algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0284-peeking-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0284-peeking-iterator) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/justlikesh/python_algorithm/tree/master/0284-peeking-iterator) |
 ## Counting Sort
 |  |
 | ------- |
